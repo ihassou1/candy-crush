@@ -1,0 +1,44 @@
+.scoreBoard {
+  position: absolute;
+  bottom: 400px;
+  right: 300px;
+  background-color: wheat;
+  width: 200px;
+  height: 200px;
+}
+.scoreText {
+  font-size: 80px;
+  position: absolute;
+  left: 55px;
+  color:slategrey;
+}
+.Text {
+  font-size: 30px;
+  position: absolute;
+  left: 64px;
+  color:slategrey;
+}
+.app {
+  display: flex;
+  padding: 30px;
+  background-color: wheat;
+}
+.body {
+  background-color: black;
+}
+.game {
+  width: 560px;
+  height: 560px;
+  display:flex;
+  flex-wrap:wrap;
+  position: absolute;
+  bottom: 80px;
+  right: 700px;
+  background-color:wheat;
+}
+
+.game img{
+  width: 70px;
+  height: 70px;
+}
+
